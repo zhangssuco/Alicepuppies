@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="puppies">
+        <item>Poodle</item>
+        <item>Shitzu</item>
+        <item>maltese</item>
+        <item>yorkie</item>
+        <item>maltipoo</item>
+        <item>Poodle</item>
+        <item>Shitzu</item>
+        <item>maltese</item>
+        <item>yorkie</item>
+        <item>maltipoo</item>
+        <item>Poodle</item>
+        <item>Shitzu</item>
+        <item>maltese</item>
+        <item>yorkie</item>
+        <item>maltipoo</item>
+        <item>Poodle</item>
+        <item>Shitzu</item>
+        <item>maltese</item>
+        <item>yorkie</item>
+        <item>maltipoo</item>
+        <item>Poodle</item>
+        <item>Shitzu</item>
+        <item>maltese</item>
+        <item>yorkie</item>
+        <item>maltipoo</item>
+    </string-array>
+</resources>
